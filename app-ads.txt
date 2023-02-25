@@ -1,7 +1,1 @@
-app ID: ca-app-pub-1141982570994134~5135958756
-
-Interstitial ad unit ID: ca-app-pub-1141982570994134/7213782591
-
-Publisher ID: pub-1141982570994134 	
-
 google.com, pub-1141982570994134, DIRECT, f08c47fec0942fa0
